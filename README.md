@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hira Tufail
 
-<!--
-**hirast4-hu/hirast4-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an undergraduate Software Engineering student passionate about software development and problem solving. I enjoy building interactive desktop applications, backend database integrations, and clean user interfaces. Constantly exploring modern developer tools and best coding practices to build impactful software.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+| Category | Technologies |
+| --- | --- |
+| Languages | C#, Python, SQL|
+| Web Development | HTML5, CSS3, JavaScript |
+| Tools & Platforms | Git, GitHub, VS Code, Visual Studio, SSMS |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### Cooking Dash Game
+A 2D time-management desktop game developed using C# and Windows Forms, integrated with an SQL Server database to manage game state, player scores, and logic.
+
+### Grocery Management System
+A console-based management application created in Python alongside a front-end interface prototype designed using HTML and CSS.
+
+## Education
+Bachelor of Science in Software Engineering, University of Engineering and Technology (UET) Session 2025-2029
+
+## Contact
+- Email: hirast4@gmail.com
+- GitHub: [@hirast4-hu](https://github.com/hirast4-hu)
